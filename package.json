@@ -1,0 +1,33 @@
+{
+  "name": "train-game",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --production",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samualtnorman/train-game.git"
+  },
+  "keywords": [
+    "train",
+    "game"
+  ],
+  "author": "Samual Norman, Luke Bennett, Reece Fagan, Harry Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samualtnorman/train-game/issues"
+  },
+  "homepage": "https://github.com/samualtnorman/train-game#readme",
+  "devDependencies": {
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "ts-loader": "^7.0.4",
+    "typescript": "^3.9.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
