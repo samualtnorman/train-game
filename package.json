@@ -16,13 +16,14 @@
     "train",
     "game"
   ],
-  "author": "Samual Norman, Luke Bennett, Reece Fagan, Harry Thompson",
+  "author": "Samual Norman, Luke Bennett, Reece Fagan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/samualtnorman/train-game/issues"
   },
   "homepage": "https://github.com/samualtnorman/train-game#readme",
   "devDependencies": {
+    "favicons-webpack-plugin": "^3.0.1",
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.3.0",
     "ts-loader": "^7.0.4",
