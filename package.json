@@ -23,7 +23,7 @@
 	},
 	"homepage": "https://github.com/samualtnorman/train-game#readme",
 	"devDependencies": {
-		"css-loader": "^5.0.1",
+		"css-loader": "^5.0.2",
 		"favicons-webpack-plugin": "^4.2.0",
 		"file-loader": "^6.2.0",
 		"html-webpack-plugin": "^4.5.1",
